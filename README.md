@@ -191,7 +191,7 @@ Federated Unlearning is useful in:
 
 ## 👩‍💻 Contributors
 
-- Pallavi Mishra
+- Mukul Garg
 
 ---
 
